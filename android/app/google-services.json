@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047580361490",
+    "project_id": "interactive-cares-new",
+    "storage_bucket": "interactive-cares-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047580361490:android:d31646e859138d598da9cb",
+        "android_client_info": {
+          "package_name": "com.example.interactive_cares_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLtK-mD-yTUFPt_8mQlAuaWRKJoup80FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
